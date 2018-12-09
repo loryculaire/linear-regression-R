@@ -1,2 +1,2 @@
-# linear-regression-dplyr-ggplot
-# linear-regression-R
+# linear regression and data viz using dplyr and ggplot
+
